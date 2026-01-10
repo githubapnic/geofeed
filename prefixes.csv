@@ -1,0 +1,20 @@
+2001:DF2:EE00::/47,AU,AU-QLD,Brisbane,
+This IPv6 prefix is used in Brisbane, Queensland, Australia
+
+202.125.96.0/23,AU,AU-QLD,Brisbane,
+This prefix is used in Brisbane, Queensland, Australia
+
+2001:DF0:A::/48,SG,,,
+This prefix is used in Singapore
+
+203.30.127.0/24,SG,,,
+This prefix is used in Singapore
+
+2406:6400::/32,,,,
+This prefix should not be geolocated
+
+2401:4601::/32,,,,
+This prefix should not be geolocated
+
+61.45.248.0/21,,,,
+This prefix should not be geolocated
